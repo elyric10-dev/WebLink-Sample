@@ -1,5 +1,5 @@
 # WebLink-Sample
-For testing Only
+HTML, CSS, and JS
 
 
 
@@ -115,26 +115,3 @@ For testing Only
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Your Comment for the project:
-Here
